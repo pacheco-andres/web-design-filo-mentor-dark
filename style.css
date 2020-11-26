@@ -1,5 +1,61 @@
 /* Primary Colors */
 /* Accent */
 /* Neutral */
+.body {
+  margin: 0px;
+  padding: 0px; }
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  padding-bottom: 32px; }
+
+.background-color-header {
+  background-color: #181f2a; }
+
+.text-decoration {
+  text-decoration: none;
+  color: #BCC3CA;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  margin-right: 52px; }
+
+.margin-right {
+  margin-right: 64px; }
+
+.logo {
+  width: 150px;
+  height: 51px;
+  padding-left: 60px;
+  padding-top: 33px; }
+
+.margin-top {
+  margin-left: auto;
+  padding-top: 50px; }
+
+.images-ilustration {
+  display: block;
+  margin: auto;
+  padding-top: 45px;
+  width: 716px;
+  height: 395px; }
+
+.text {
+  text-align: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 37px;
+  line-height: 56px;
+  font-weight: 400; }
+
+.filo-stores {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #BEC5CF;
+  font-size: 17px;
+  line-height: 28px;
+  font-weight: 200; }
 
 /*# sourceMappingURL=style.css.map */
