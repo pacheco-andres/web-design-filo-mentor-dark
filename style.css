@@ -58,4 +58,41 @@
   line-height: 28px;
   font-weight: 200; }
 
+.button {
+  width: 219px;
+  height: 41px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: #65e2d9;
+  border-radius: 19px;
+  border: #65e2d9;
+  color: white;
+  margin: auto;
+  display: block;
+  outline-color: transparent;
+  outline-style: none;
+  cursor: pointer; }
+
+.card-icons {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 36px;
+  padding-top: 87px;
+  justify-content: space-evenly; }
+  .card-icons .card-center {
+    margin: auto;
+    display: block; }
+
+.title-card {
+  text-align: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px; }
+
+.text-card {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  color: #B9BEC4; }
+
 /*# sourceMappingURL=style.css.map */
