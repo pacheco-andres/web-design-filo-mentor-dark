@@ -129,3 +129,12 @@ $White: hsl(0, 0%, 100%);
   font-size: 13px;
   color: #B9BEC4;
 }
+
+.images-ilustration-stay{
+  display: flex;
+  justify-content: center;
+  .stay-productive{
+    padding-top: 75px;
+    padding-left: 41px;
+  }
+}
